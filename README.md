@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Junho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)   
 :raised_hand:**Hi there**      
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">   
+<a href="https://www.notion.so/My-Portfolio-0135539f61a545eeb21c60047813b663" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">   
 
 
          
@@ -11,8 +11,8 @@
 
 <br/>
 
-:computer:**Also in Django, Unity , Oracle**   
-**Take a look at the community We created : **
+:globe_with_meridians:**Also in Django, Unity , Oracle**   
+:mag:**Take a look at the community We created : https://github.com/Sungil-SoftWare-Study**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJUN1204)](https://github.com/JJUN1204/github-readme-stats)   
 

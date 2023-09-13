@@ -1,17 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Junho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)   
-**Hi there**      
+:raised_hand:**Hi there**      
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">   
 
 
          
-**I'm growing to become a great developer**   
+:seedling:**I'm growing to become a great developer**   
 
 
-**Interested in Python, Java, Dart**
+:hammer:**Interested in Python, Java, Dart**:hammer:
 
 <br/>
 
-**Also in Django, Unity , Oracle**   
+:computer:**Also in Django, Unity , Oracle**   
 **Take a look at the community We created : **
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJUN1204)](https://github.com/JJUN1204/github-readme-stats)   

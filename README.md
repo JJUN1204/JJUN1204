@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Junho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)   
 :raised_hand:**Hi there**      
-<a href="https://www.notion.so/My-Portfolio-0135539f61a545eeb21c60047813b663" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">   
+<a href="https://www.notion.so/My-Portfolio-0135539f61a545eeb21c60047813b663" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<a href="https://www.kaggle.com/godgone" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+<a href="https://www.youtube.com/watch?v=FAnrbMTB6uc" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+
 
 
          
